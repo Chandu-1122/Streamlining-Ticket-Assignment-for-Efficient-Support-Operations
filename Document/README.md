@@ -3,7 +3,8 @@ This is a ServiceNow-based solution developed during our internship to optimize 
 
 🔗 Demo Video Link: Watch Demo
 
-🔧 Key Features
+**🔧 Key Features**
+
 Custom Tables for Support Tickets and Assignment Logs
 
 Auto-numbering System for each ticket (e.g., STA001)
@@ -16,7 +17,8 @@ User-friendly Forms for raising and managing tickets
 
 Reports & Dashboards for performance and SLA tracking
 
-📂 How It Works
+**📂 How It Works**
+
 User submits a support request via ServiceNow form
 
 System generates a unique ticket number and logs the request
@@ -27,7 +29,8 @@ Assigned technician receives a notification with ticket details
 
 Admin and team leads can monitor assignment efficiency via categorized reports
 
-👨‍💻 Built With
+**👨‍💻 Built With**
+
 ServiceNow Catalog & Incident Management
 
 Custom Tables & Forms
@@ -40,17 +43,20 @@ Notifications & SLA Conditions
 
 Dashboards and Performance Analytics
 
+
 👥 Team Members (Internship Project)
-Team ID: LTVIP2025TMID20412
 
-👤 Team Leader: jahnavai
+Team ID: LTVIP2025TMID20421
 
-👤 Team Member: chandu
+👤 Team Leader: Yasarla Jahnavi
 
-👤 Team Member: renuka
+👤 Team Member: Karumanchi Chandu
 
-👤 Team Member: kathyayini
+👤 Team Member: M Renuka
 
-📎 License
+👤 Team Member: Jonnalagadda Rohitha Kathyayani
+
+**📎 License**
+
 This project was developed as part of an internship program and is intended for educational and demonstration purposes.
 

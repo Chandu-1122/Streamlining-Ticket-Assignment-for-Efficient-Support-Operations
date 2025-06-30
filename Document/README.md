@@ -1,9 +1,13 @@
-📊 Streamlining Ticket Assignment for Efficient Support Operations
+# 📊 Streamlining Ticket Assignment for Efficient Support Operations
 This is a ServiceNow-based solution developed during our internship to optimize ticket assignment processes in IT support environments. The system automates ticket routing based on parameters like issue type, priority, and technician availability—improving response time, reducing backlog, and ensuring fair distribution of workload among support staff.
+
+---
 
 🔗 Demo Video Link: Watch Demo
 
-**🔧 Key Features**
+---
+
+## 🔧 Key Features
 
 1.Custom Tables for Support Tickets and Assignment Logs
 
@@ -17,7 +21,10 @@ This is a ServiceNow-based solution developed during our internship to optimize 
 
 6.Reports & Dashboards for performance and SLA tracking
 
-**📂 How It Works**
+
+---
+
+## 📂 How It Works
 
 1.User submits a support request via ServiceNow form
 
@@ -29,7 +36,9 @@ This is a ServiceNow-based solution developed during our internship to optimize 
 
 5.Admin and team leads can monitor assignment efficiency via categorized reports
 
-**👨‍💻 Built With**
+---
+
+## 👨‍💻 Built With
 
 1.ServiceNow Catalog & Incident Management
 
@@ -43,8 +52,9 @@ This is a ServiceNow-based solution developed during our internship to optimize 
 
 6.Dashboards and Performance Analytics
 
+---
 
-**👥 Team Members (Internship Project)**
+## 👥 Team Members (Internship Project)
 
 Team ID: LTVIP2025TMID20421
 
@@ -56,7 +66,9 @@ Team ID: LTVIP2025TMID20421
 
 👤 Team Member: Jonnalagadda Rohitha Kathyayani
 
-**📎 License**
+---
+
+## 📎 License
 
 This project was developed as part of an internship program and is intended for educational and demonstration purposes.
 
